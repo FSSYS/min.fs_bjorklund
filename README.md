@@ -1,5 +1,5 @@
 # min.fs_bjorklund
-high performance euclidean rhythm generator for Max 8.
+Euclidean rhythm generator external for Max 8.
 
 With thanks to Zirfakend for the C++ implementation of the euclidean algorithm:
 
